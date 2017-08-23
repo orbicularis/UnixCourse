@@ -1,0 +1,8 @@
+##variable1=1
+##variable2=2
+##printf "$variable1\n$variable2\n"
+
+variable1=1
+variable2=2
+let output=variable1+variable2
+echo $output
